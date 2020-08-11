@@ -1,0 +1,10 @@
+{
+  "layout": "layouts/question.njk",
+  "title": "CHOOSE YOUR JOB",
+  "answers": [
+    {
+      "text": "Retail Salesperson",
+      "cost": "432"
+    }
+  ]
+}
