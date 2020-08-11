@@ -1,0 +1,11 @@
+{
+  "layout": "layouts/question.njk",
+  "title": "CHOOSE YOUR JOB",
+  "answers": [
+    {
+      "text": "Retail Salesperson",
+      "description": "$12.00/hour, Part-time, 8 a.m. to 2 p.m., 4 days a week",
+      "cost": "432"
+    }
+  ]
+}
