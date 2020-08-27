@@ -1,12 +1,11 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
-archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+title: Making Tough Choices
+metaDesc: ""
+postsHeading: Latest Posts
+archiveButtonText: Archives
+socialImage: ""
 ---
+You are about to put yourself in the shoes of a typical ALICE® family. ALICE stands for Asset Limited, Income Constrained, Employed. ALICE families are those that have earnings above the Federal Poverty Level, but below a basic cost-of-living threshold. In other words, they are struggling to make ends meet. More than one in four Connecticut families are ALICE; combined with those in poverty, more than one in three Connecticut households is experiencing financial hardship.
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+For the next few minutes, you’ll experience some of the tough choices that these families have to make every single day and how United Way is doing all that we can to help them along the way.
