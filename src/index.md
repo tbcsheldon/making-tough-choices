@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Making Tough Choicess
+title: Making Tough Choices
 metaDesc: ""
 postsHeading: Latest Posts
 archiveButtonText: Archives
